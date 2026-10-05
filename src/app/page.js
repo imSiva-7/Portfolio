@@ -11,7 +11,7 @@ export default function Home() {
         className="min-h-screen flex flex-col items-center justify-center px-4 text-center bg-white dark:bg-black"
       >
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 dark:text-white">
-          Hi, Im <span className="text-blue-600 dark:text-blue-400">Siva</span>
+          Hi, Im <span className="text-blue-600 dark:text-blue-400">Siva 007 </span>
         </h1>
         <p className="mt-6 max-w-xl text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
           A passionate developer who builds clean, performant web experiences.
