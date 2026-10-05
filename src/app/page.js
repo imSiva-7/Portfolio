@@ -18,7 +18,7 @@ export default function Home() {
         </p>
         <div className="mt-10 flex gap-4 flex-wrap justify-center">
           <Link href="#projects" className="rounded-lg bg-blue-600 px-6 py-3 text-sm font-semibold text-white hover:bg-blue-700 transition-colors">
-            View My Work
+            View SKYFALL
           </Link>
           <Link href="#contact" className="rounded-lg border border-gray-300 dark:border-gray-700 px-6 py-3 text-sm font-semibold text-gray-900 dark:text-white hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
 
